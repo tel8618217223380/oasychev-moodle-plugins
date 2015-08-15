@@ -1,0 +1,1 @@
+Для стабильной работы системы визуализации нужен php5 сервер, с установленным расширением PEAR, модулем Image\_GraphViz Interface to AT&T's GraphViz tools.
